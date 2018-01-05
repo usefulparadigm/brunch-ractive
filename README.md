@@ -4,7 +4,7 @@ This is a HTML5 app skeleton, built with [Brunch](http://brunch.io) and [Ractive
 
 ## Installation
 
-Clone this repo manually or use `brunch new dir -s usefulparadigm/brunch-ractive`
+Clone this repo manually or use `brunch new -s usefulparadigm/brunch-ractive`
 
 ## Getting started
 * Install (if you don't have them):
