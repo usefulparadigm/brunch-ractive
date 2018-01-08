@@ -12,3 +12,9 @@ exports.files = {
 exports.plugins = {
   babel: {presets: ['latest']}
 };
+
+// exports.modules = {
+//   autoRequire: {
+//     'app.js': ['initialize']
+//   }
+// };
